@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Your access credentials are as follows:
 
-* **Tenant Name:** {{Tenant_Name}}
+* //**Tenant Name:** {{Tenant_Name}}
 * **User Name:** {{User_Name}}
 * **Password:** {{Password}}
 * **Compartment Name:** {{Compartment_Name}}
