@@ -47,12 +47,10 @@ A cooldown period between autoscaling events lets the system stabilize at the up
 
 - We recommend using Chrome or Edge as the broswer. Also set your browser zoom to 80%
 
-## Practice-1: Sign in to OCI Console and create VCN
-
-* **Tenant Name:** {{Cloud Tenant}}
-* **User Name:** {{User Name}}
+* **Tenant Name:** {{Tenant_Name}}
+* **User Name:** {{User_Name}}
 * **Password:** {{Password}}
-* **Compartment:**{{Compartment}}
+* **Compartment:**{{Compartment_Name}}
 
 **Note:** OCI UI is being updated thus some screenshots in the instructions might be different than actual UI
 
